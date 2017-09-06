@@ -1,0 +1,11 @@
+{
+    "name": "nbish11/cl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nathan Bishop",
+            "email": "nbish11@hotmail.com"
+        }
+    ],
+    "require": {}
+}
